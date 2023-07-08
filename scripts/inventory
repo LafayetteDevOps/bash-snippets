@@ -1,5 +1,5 @@
 # Inventory for add_user or any other script that needs an inventory for testing purposes.
-# FQDN or IP are preferable.
+# It's advisable to use IP or FQDN for the inventory.
 
 server1
 server2
